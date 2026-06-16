@@ -153,3 +153,32 @@ User remained on the login page.
 ### Status
 
 PASS
+
+
+## TC006 - Login with Invalid Username
+
+### Objective
+
+Verify that the system displays an error message when an invalid username is entered.
+
+### Preconditions
+
+- User is on the SauceDemo login page.
+
+### Test Steps
+
+1. Enter username: invalid_user
+2. Enter password: secret_sauce
+3. Click Login
+
+### Expected Result
+
+An error message is displayed indicating that the username and password do not match any user in the system.
+
+### Actual Result
+
+(To be filled after execution)
+
+### Status
+
+(Not Executed)
