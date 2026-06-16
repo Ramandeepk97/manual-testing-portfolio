@@ -49,8 +49,11 @@ An error message is displayed and the user remains on the login page.
 
 ### Actual Result
 
-(To be filled after execution)
+Error message displayed:
+"Epic sadface: Username and password do not match any user in this service"
+
+User remains on login page.
 
 ### Status
 
-(Not Executed)
+PASS
