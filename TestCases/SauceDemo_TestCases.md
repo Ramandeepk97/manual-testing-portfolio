@@ -26,6 +26,34 @@ User successfully redirected to Products page.
 
 PASS
 
+## TC004 - Login with Empty Password
+
+### Objective
+
+Verify that the system displays an error message when the password field is left empty.
+
+### Preconditions
+
+- User is on the SauceDemo login page.
+
+### Test Steps
+
+1. Enter username: standard_user
+2. Leave password blank.
+3. Click Login
+
+### Expected Result
+
+An error message is displayed indicating that the password is required.
+
+### Actual Result
+
+(To be filled after execution)
+
+### Status
+
+(Not Executed)
+
 
 ## TC002 - Login with Invalid Password
 
