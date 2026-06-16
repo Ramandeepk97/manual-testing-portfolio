@@ -57,3 +57,33 @@ User remains on login page.
 ### Status
 
 PASS
+
+
+
+## TC003 - Login with Empty Username
+
+### Objective
+
+Verify that the system displays an error message when the username field is left empty.
+
+### Preconditions
+
+- User is on the SauceDemo login page.
+
+### Test Steps
+
+1. Leave username blank.
+2. Enter password: secret_sauce
+3. Click Login
+
+### Expected Result
+
+An error message is displayed indicating that the username is required.
+
+### Actual Result
+
+(To be filled after execution)
+
+### Status
+
+(Not Executed)
