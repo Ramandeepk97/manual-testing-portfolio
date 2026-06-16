@@ -145,8 +145,11 @@ An error message is displayed indicating that the username is required.
 
 ### Actual Result
 
-(To be filled after execution)
+Error message displayed:
+"Epic sadface: Username is required"
+
+User remained on the login page.
 
 ### Status
 
-(Not Executed)
+PASS
