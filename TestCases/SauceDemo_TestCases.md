@@ -20,8 +20,8 @@ User is redirected to the Products page.
 
 ### Actual Result
 
-(To be filled after execution)
+User successfully redirected to Products page.
 
 ### Status
 
-(Not Executed)
+PASS
