@@ -177,8 +177,12 @@ An error message is displayed indicating that the username and password do not m
 
 ### Actual Result
 
-(To be filled after execution)
+Error message displayed:
+"Epic sadface: Username and password do not match any user in this service"
+
+User remained on the login page.
+
 
 ### Status
 
-(Not Executed)
+PASS
