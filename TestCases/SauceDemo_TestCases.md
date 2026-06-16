@@ -120,3 +120,33 @@ Error message displayed:
 ### Status
 
 PASS
+
+
+
+## TC005 - Login with Empty Username and Password
+
+### Objective
+
+Verify that the system displays an error message when both username and password fields are left empty.
+
+### Preconditions
+
+- User is on the SauceDemo login page.
+
+### Test Steps
+
+1. Leave username blank.
+2. Leave password blank.
+3. Click Login.
+
+### Expected Result
+
+An error message is displayed indicating that the username is required.
+
+### Actual Result
+
+(To be filled after execution)
+
+### Status
+
+(Not Executed)
